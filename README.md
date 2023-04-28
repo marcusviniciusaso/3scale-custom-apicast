@@ -7,4 +7,4 @@ Neste documento vamos passar pelo mínimos necessário para um APICast customiza
 - Operator Red Hat Integration - 3scale instalado;
 - Operator Red Hat Integration - 3scale APICast gateway instalado.  
 
-![operators.png](/resources/img/operators.png "Installed Operators")
+![installed-operators.png](/resources/img/installed-operators.png "Installed Operators")
