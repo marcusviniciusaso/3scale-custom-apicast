@@ -1,0 +1,8 @@
+kind: APIManager
+apiVersion: apps.3scale.net/v1alpha1
+metadata:
+  name: apimanager-prod
+  namespace: marolive-3scale
+spec:
+  wildcardDomain: <wildcard domain>
+  resourceRequirementsEnabled: false
