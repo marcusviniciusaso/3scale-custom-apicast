@@ -52,5 +52,5 @@ Entre no operator "Operator Red Hat Integration - 3scale" para criar o APIManage
 ![create-apimanager.png](/resources/img/create-apimanager.png "Create APIManager")
 
 Na tela de criação coloque no [yaml do API Manager](apimanager.yaml) os valores corretos:
-![apimanager-yaml.png](/resources/img/apimanager-yaml.png "APIManager yaml")
+![apimanager-yaml-form.png](/resources/img/apimanager-yaml-form.png "APIManager yaml")
 Atenção aos valores dos campos "namespace" e "wildcardDomain". Coloque o domínio correto do OpenShift.
